@@ -1,0 +1,520 @@
+2025-08-21 19:46:26,365 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:46:26,365 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:46:26,384 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:46:26,384 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:51:34,942 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 19:51:34,942 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 19:51:34,947 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:51:34,947 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:51:34,947 | INFO | log_session_start:203 | Account Balance: $96,763.33
+2025-08-21 19:51:34,947 | INFO | log_session_start:203 | Account Balance: $96,763.33
+2025-08-21 19:51:34,947 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 19:51:34,947 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 19:51:34,947 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 19:51:34,947 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 19:51:34,947 | INFO | log_session_start:206 | Stop Loss: 15.0 pips
+2025-08-21 19:51:34,947 | INFO | log_session_start:206 | Stop Loss: 15.0 pips
+2025-08-21 19:51:34,947 | INFO | log_session_start:207 | Session Time: 2025-08-21 19:51:34
+2025-08-21 19:51:34,947 | INFO | log_session_start:207 | Session Time: 2025-08-21 19:51:34
+2025-08-21 19:51:34,947 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:51:34,947 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:51:45,941 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 19:51:45,941 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 19:51:45,941 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 19:51:45,941 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 19:51:45,941 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 19:51:45,941 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 19:51:45,941 | INFO | log_order_placement:123 | Order ID: 124
+2025-08-21 19:51:45,941 | INFO | log_order_placement:123 | Order ID: 124
+2025-08-21 19:51:45,942 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 19:51:45,942 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 19:51:45,942 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 19:51:45,942 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 19:51:45,942 | INFO | log_order_placement:126 | Units: 580,579
+2025-08-21 19:51:45,942 | INFO | log_order_placement:126 | Units: 580,579
+2025-08-21 19:51:45,942 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 19:51:45,942 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 19:51:45,948 | INFO | log_order_placement:132 | Stop Loss: 1.34057 (0.0 pips)
+2025-08-21 19:51:45,948 | INFO | log_order_placement:132 | Stop Loss: 1.34057 (0.0 pips)
+2025-08-21 19:51:45,949 | INFO | log_order_placement:133 | Take Profit: 1.34507 (0.0 pips)
+2025-08-21 19:51:45,949 | INFO | log_order_placement:133 | Take Profit: 1.34507 (0.0 pips)
+2025-08-21 19:51:45,949 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 19:51:45,949 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 19:51:45,949 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 19:51:45,949 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 19:51:45,949 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 19:51:45,949 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 19:51:45,949 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 19:51:45,949 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 19:51:45,950 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 19:51:45,950 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 19:51:45,950 | INFO | log_order_execution:145 | Executed Price: 1.34207
+2025-08-21 19:51:45,950 | INFO | log_order_execution:145 | Executed Price: 1.34207
+2025-08-21 19:51:45,950 | INFO | log_order_execution:146 | Execution Time: 55.42ms
+2025-08-21 19:51:45,950 | INFO | log_order_execution:146 | Execution Time: 55.42ms
+2025-08-21 19:51:45,950 | INFO | log_order_execution:147 | Fill Time: 2025-08-21T23:51:45.829522663Z
+2025-08-21 19:51:45,950 | INFO | log_order_execution:147 | Fill Time: 2025-08-21T23:51:45.829522663Z
+2025-08-21 19:51:45,950 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 19:51:45,950 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 19:51:45,951 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 19:51:45,951 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 19:51:45,951 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 19:51:45,951 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 19:51:45,951 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 19:51:45,951 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 19:51:45,951 | INFO | log_order_execution:158 | Spread Cost: $63.86
+2025-08-21 19:51:45,951 | INFO | log_order_execution:158 | Spread Cost: $63.86
+2025-08-21 19:51:45,951 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 19:51:45,951 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 19:51:45,952 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 19:51:45,952 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 19:51:45,952 | INFO | log_order_execution:164 | Total Cost: $63.86
+2025-08-21 19:51:45,952 | INFO | log_order_execution:164 | Total Cost: $63.86
+2025-08-21 19:51:45,952 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 19:51:45,952 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 19:51:45,952 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 19:51:45,952 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 19:51:45,952 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 19:51:45,952 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 19:51:45,952 | INFO | log_order_execution:170 | Account Balance: $96,763.33
+2025-08-21 19:51:45,952 | INFO | log_order_execution:170 | Account Balance: $96,763.33
+2025-08-21 19:51:45,953 | INFO | log_order_execution:171 | Margin Required: $38,955.69
+2025-08-21 19:51:45,953 | INFO | log_order_execution:171 | Margin Required: $38,955.69
+2025-08-21 19:51:45,953 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 19:51:45,953 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 19:51:45,953 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 19:51:45,953 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 19:51:45,953 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 19:51:45,953 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 19:51:45,954 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 19:51:45,954 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 19:51:45,954 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-08-21 19:51:45,954 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-08-21 19:51:45,954 | INFO | log_session_end:216 | End Time: 2025-08-21 19:51:45
+2025-08-21 19:51:45,954 | INFO | log_session_end:216 | End Time: 2025-08-21 19:51:45
+2025-08-21 19:51:45,954 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 19:51:45,954 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 19:56:26,942 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 19:56:26,942 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 19:56:26,943 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:56:26,943 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:56:26,943 | INFO | log_session_start:203 | Account Balance: $96,763.33
+2025-08-21 19:56:26,943 | INFO | log_session_start:203 | Account Balance: $96,763.33
+2025-08-21 19:56:26,943 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 19:56:26,943 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 19:56:26,943 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 19:56:26,943 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 19:56:26,943 | INFO | log_session_start:206 | Stop Loss: 12.0 pips
+2025-08-21 19:56:26,943 | INFO | log_session_start:206 | Stop Loss: 12.0 pips
+2025-08-21 19:56:26,943 | INFO | log_session_start:207 | Session Time: 2025-08-21 19:56:26
+2025-08-21 19:56:26,943 | INFO | log_session_start:207 | Session Time: 2025-08-21 19:56:26
+2025-08-21 19:56:26,943 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:56:26,943 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:58:52,041 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 19:58:52,041 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 19:58:52,041 | INFO | log_session_start:203 | Account Balance: $96,647.21
+2025-08-21 19:58:52,042 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 19:58:52,042 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 19:58:52,042 | INFO | log_session_start:206 | Stop Loss: 15.0 pips
+2025-08-21 19:58:52,042 | INFO | log_session_start:207 | Session Time: 2025-08-21 19:58:52
+2025-08-21 19:58:52,042 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 19:58:55,701 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 19:58:55,701 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 19:58:55,701 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 19:58:55,701 | INFO | log_order_placement:123 | Order ID: 132
+2025-08-21 19:58:55,701 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 19:58:55,701 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 19:58:55,701 | INFO | log_order_placement:126 | Units: 579,883
+2025-08-21 19:58:55,701 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 19:58:55,702 | INFO | log_order_placement:130 | Requested Price: 1.34199
+2025-08-21 19:58:55,702 | INFO | log_order_placement:132 | Stop Loss: 1.34049 (0.0 pips)
+2025-08-21 19:58:55,702 | INFO | log_order_placement:133 | Take Profit: 1.34499 (0.0 pips)
+2025-08-21 19:58:55,702 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 19:58:55,702 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 19:58:55,702 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 19:58:55,702 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 19:58:55,702 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 19:58:55,702 | INFO | log_order_execution:145 | Executed Price: 1.34199
+2025-08-21 19:58:55,702 | INFO | log_order_execution:146 | Execution Time: 51.91ms
+2025-08-21 19:58:55,703 | INFO | log_order_execution:147 | Fill Time: 2025-08-21T23:58:55.602760853Z
+2025-08-21 19:58:55,703 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 19:58:55,703 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 19:58:55,703 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 19:58:55,703 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 19:58:55,703 | INFO | log_order_execution:158 | Spread Cost: $63.79
+2025-08-21 19:58:55,703 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 19:58:55,703 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 19:58:55,703 | INFO | log_order_execution:164 | Total Cost: $63.79
+2025-08-21 19:58:55,703 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 19:58:55,704 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 19:58:55,704 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 19:58:55,704 | INFO | log_order_execution:170 | Account Balance: $96,647.21
+2025-08-21 19:58:55,704 | INFO | log_order_execution:171 | Margin Required: $38,906.67
+2025-08-21 19:58:55,704 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:03:39,947 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:03:39,947 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:03:39,947 | INFO | log_session_start:203 | Account Balance: $96,479.05
+2025-08-21 20:03:39,947 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 20:03:39,948 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:03:39,948 | INFO | log_session_start:206 | Stop Loss: 12.0 pips
+2025-08-21 20:03:39,948 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:03:39
+2025-08-21 20:03:39,948 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:03:41,951 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:03:41,951 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:03:41,951 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:03:41,951 | INFO | log_order_placement:123 | Order ID: 140
+2025-08-21 20:03:41,951 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 20:03:41,951 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:03:41,951 | INFO | log_order_placement:126 | Units: 723,592
+2025-08-21 20:03:41,951 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 20:03:41,951 | INFO | log_order_placement:130 | Requested Price: 1.34204
+2025-08-21 20:03:41,951 | INFO | log_order_placement:132 | Stop Loss: 1.34084 (0.0 pips)
+2025-08-21 20:03:41,952 | INFO | log_order_placement:133 | Take Profit: 1.34444 (0.0 pips)
+2025-08-21 20:03:41,952 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:03:41,952 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:03:45,233 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:03:45,233 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:03:45,233 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:03:45,233 | INFO | log_order_execution:145 | Executed Price: 1.34204
+2025-08-21 20:03:45,233 | INFO | log_order_execution:146 | Execution Time: 0.00ms
+2025-08-21 20:03:45,234 | INFO | log_order_execution:147 | Fill Time: 
+2025-08-21 20:03:45,234 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:03:45,234 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:03:45,234 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:03:45,234 | INFO | log_order_execution:158 | Spread Cost: $0.00
+2025-08-21 20:03:45,234 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:03:45,234 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:03:45,234 | INFO | log_order_execution:164 | Total Cost: $0.00
+2025-08-21 20:03:45,234 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:03:45,235 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:03:45,235 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:03:45,235 | INFO | log_order_execution:170 | Account Balance: $0.00
+2025-08-21 20:03:45,235 | INFO | log_order_execution:171 | Margin Required: $0.00
+2025-08-21 20:03:45,235 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:03:45,235 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:03:45,236 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:03:45,236 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:03:45,236 | INFO | log_session_end:215 | Reason: Limit order filled
+2025-08-21 20:03:45,236 | INFO | log_session_end:216 | End Time: 2025-08-21 20:03:45
+2025-08-21 20:03:45,236 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:04:50,976 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:04:50,976 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:04:50,976 | INFO | log_session_start:203 | Account Balance: $96,334.33
+2025-08-21 20:04:50,976 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 20:04:50,976 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:04:50,976 | INFO | log_session_start:206 | Stop Loss: 12.0 pips
+2025-08-21 20:04:50,976 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:04:50
+2025-08-21 20:04:50,976 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:04:54,325 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:04:54,325 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:04:54,325 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:04:54,325 | INFO | log_order_placement:123 | Order ID: 148
+2025-08-21 20:04:54,325 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 20:04:54,325 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:04:54,325 | INFO | log_order_placement:126 | Units: 722,507
+2025-08-21 20:04:54,325 | INFO | log_order_placement:127 | Order Type: MARKET
+2025-08-21 20:04:54,326 | INFO | log_order_placement:132 | Stop Loss: 1.34082 (0.0 pips)
+2025-08-21 20:04:54,326 | INFO | log_order_placement:133 | Take Profit: 1.34442 (0.0 pips)
+2025-08-21 20:04:54,326 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:04:54,326 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:04:54,326 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:04:54,326 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:04:54,326 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:04:54,326 | INFO | log_order_execution:145 | Executed Price: 1.34203
+2025-08-21 20:04:54,326 | INFO | log_order_execution:146 | Execution Time: 341.89ms
+2025-08-21 20:04:54,326 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:04:54.235145487Z
+2025-08-21 20:04:54,326 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:04:54,327 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:04:54,327 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:04:54,327 | INFO | log_order_execution:158 | Spread Cost: $75.86
+2025-08-21 20:04:54,327 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:04:54,327 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:04:54,327 | INFO | log_order_execution:164 | Total Cost: $75.86
+2025-08-21 20:04:54,327 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:04:54,327 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:04:54,327 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:04:54,327 | INFO | log_order_execution:170 | Account Balance: $96,334.33
+2025-08-21 20:04:54,327 | INFO | log_order_execution:171 | Margin Required: $48,477.33
+2025-08-21 20:04:54,328 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:04:54,328 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:04:54,328 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:04:54,328 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:04:54,329 | INFO | log_session_end:215 | Reason: Market order executed
+2025-08-21 20:04:54,329 | INFO | log_session_end:216 | End Time: 2025-08-21 20:04:54
+2025-08-21 20:04:54,329 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:05:31,815 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:05:31,815 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:05:31,815 | INFO | log_session_start:203 | Account Balance: $96,211.50
+2025-08-21 20:05:31,815 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 20:05:31,815 | INFO | log_session_start:205 | Position: SHORT
+2025-08-21 20:05:31,815 | INFO | log_session_start:206 | Stop Loss: 15.0 pips
+2025-08-21 20:05:31,815 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:05:31
+2025-08-21 20:05:31,815 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:05:33,848 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:05:33,848 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:05:33,848 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:05:33,849 | INFO | log_order_placement:123 | Order ID: 156
+2025-08-21 20:05:33,849 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 20:05:33,849 | INFO | log_order_placement:125 | Position: SHORT
+2025-08-21 20:05:33,849 | INFO | log_order_placement:126 | Units: -577,269
+2025-08-21 20:05:33,849 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 20:05:33,849 | INFO | log_order_placement:130 | Requested Price: 1.34188
+2025-08-21 20:05:33,849 | INFO | log_order_placement:132 | Stop Loss: 1.34338 (0.0 pips)
+2025-08-21 20:05:33,849 | INFO | log_order_placement:133 | Take Profit: 1.33888 (0.0 pips)
+2025-08-21 20:05:33,849 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:05:33,849 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:05:33,849 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:05:33,849 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:05:33,850 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:05:33,850 | INFO | log_order_execution:145 | Executed Price: 1.34188
+2025-08-21 20:05:33,850 | INFO | log_order_execution:146 | Execution Time: 353.45ms
+2025-08-21 20:05:33,850 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:05:33.762421285Z
+2025-08-21 20:05:33,850 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 20:05:33,850 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:05:33,850 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:05:33,850 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:05:33,850 | INFO | log_order_execution:158 | Spread Cost: $60.61
+2025-08-21 20:05:33,850 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:05:33,850 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:05:33,851 | INFO | log_order_execution:164 | Total Cost: $60.61
+2025-08-21 20:05:33,851 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:05:33,851 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:05:33,851 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:05:33,851 | INFO | log_order_execution:170 | Account Balance: $96,211.50
+2025-08-21 20:05:33,851 | INFO | log_order_execution:171 | Margin Required: $38,734.17
+2025-08-21 20:05:33,851 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:05:33,851 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:05:33,852 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:05:33,852 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:05:33,852 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-08-21 20:05:33,852 | INFO | log_session_end:216 | End Time: 2025-08-21 20:05:33
+2025-08-21 20:05:33,852 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:06:33,590 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:06:33,590 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:06:33,590 | INFO | log_session_start:203 | Account Balance: $96,211.50
+2025-08-21 20:06:33,590 | INFO | log_session_start:204 | Instrument: UJ
+2025-08-21 20:06:33,590 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:06:33,590 | INFO | log_session_start:206 | Stop Loss: 14.0 pips
+2025-08-21 20:06:33,590 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:06:33
+2025-08-21 20:06:33,590 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:06:35,468 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:06:35,468 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:06:35,468 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:06:35,468 | INFO | log_order_placement:123 | Order ID: 160
+2025-08-21 20:06:35,468 | INFO | log_order_placement:124 | Instrument: USD_JPY
+2025-08-21 20:06:35,468 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:06:35,468 | INFO | log_order_placement:126 | Units: 6,185
+2025-08-21 20:06:35,468 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 20:06:35,469 | INFO | log_order_placement:130 | Requested Price: 148.40400
+2025-08-21 20:06:35,469 | INFO | log_order_placement:132 | Stop Loss: 148.26400 (0.0 pips)
+2025-08-21 20:06:35,469 | INFO | log_order_placement:133 | Take Profit: 148.68400 (0.0 pips)
+2025-08-21 20:06:35,469 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:06:35,469 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:06:35,469 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:06:35,469 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:06:35,469 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:06:35,469 | INFO | log_order_execution:145 | Executed Price: 148.40400
+2025-08-21 20:06:35,469 | INFO | log_order_execution:146 | Execution Time: 84.80ms
+2025-08-21 20:06:35,470 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:06:35.382449223Z
+2025-08-21 20:06:35,470 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 20:06:35,470 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:06:35,470 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:06:35,470 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:06:35,470 | INFO | log_order_execution:158 | Spread Cost: $0.33
+2025-08-21 20:06:35,470 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:06:35,470 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:06:35,470 | INFO | log_order_execution:164 | Total Cost: $0.33
+2025-08-21 20:06:35,470 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:06:35,470 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:06:35,471 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:06:35,471 | INFO | log_order_execution:170 | Account Balance: $96,211.50
+2025-08-21 20:06:35,471 | INFO | log_order_execution:171 | Margin Required: $309.25
+2025-08-21 20:06:35,471 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:06:35,472 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:06:35,472 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:06:35,472 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:06:35,472 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-08-21 20:06:35,472 | INFO | log_session_end:216 | End Time: 2025-08-21 20:06:35
+2025-08-21 20:06:35,472 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:07:15,844 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:07:15,844 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:07:15,845 | INFO | log_session_start:203 | Account Balance: $96,211.50
+2025-08-21 20:07:15,845 | INFO | log_session_start:204 | Instrument: EU
+2025-08-21 20:07:15,845 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:07:15,845 | INFO | log_session_start:206 | Stop Loss: 14.0 pips
+2025-08-21 20:07:15,845 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:07:15
+2025-08-21 20:07:15,845 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:07:17,887 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:07:17,887 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:07:17,887 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:07:17,887 | INFO | log_order_placement:123 | Order ID: 164
+2025-08-21 20:07:17,887 | INFO | log_order_placement:124 | Instrument: EUR_USD
+2025-08-21 20:07:17,887 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:07:17,887 | INFO | log_order_placement:126 | Units: 618,502
+2025-08-21 20:07:17,887 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-08-21 20:07:17,887 | INFO | log_order_placement:130 | Requested Price: 1.16149
+2025-08-21 20:07:17,887 | INFO | log_order_placement:132 | Stop Loss: 1.16009 (0.0 pips)
+2025-08-21 20:07:17,887 | INFO | log_order_placement:133 | Take Profit: 1.16429 (0.0 pips)
+2025-08-21 20:07:17,887 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:07:17,887 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:07:17,888 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:07:17,888 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:07:17,888 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:07:17,888 | INFO | log_order_execution:145 | Executed Price: 1.16149
+2025-08-21 20:07:17,888 | INFO | log_order_execution:146 | Execution Time: 346.56ms
+2025-08-21 20:07:17,888 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:07:17.796868145Z
+2025-08-21 20:07:17,888 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-08-21 20:07:17,888 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:07:17,888 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:07:17,888 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:07:17,889 | INFO | log_order_execution:158 | Spread Cost: $49.48
+2025-08-21 20:07:17,889 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:07:17,889 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:07:17,889 | INFO | log_order_execution:164 | Total Cost: $49.48
+2025-08-21 20:07:17,889 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:07:17,889 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:07:17,889 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:07:17,889 | INFO | log_order_execution:170 | Account Balance: $96,211.50
+2025-08-21 20:07:17,889 | INFO | log_order_execution:171 | Margin Required: $14,366.69
+2025-08-21 20:07:17,889 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:07:17,890 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:07:17,890 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:07:17,890 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:07:17,890 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-08-21 20:07:17,890 | INFO | log_session_end:216 | End Time: 2025-08-21 20:07:17
+2025-08-21 20:07:17,890 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:08:06,523 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:08:06,524 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:08:06,524 | INFO | log_session_start:203 | Account Balance: $96,020.13
+2025-08-21 20:08:06,524 | INFO | log_session_start:204 | Instrument: GU
+2025-08-21 20:08:06,524 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:08:06,524 | INFO | log_session_start:206 | Stop Loss: 10.0 pips
+2025-08-21 20:08:06,524 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:08:06
+2025-08-21 20:08:06,524 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:08:09,266 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:08:09,266 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:08:09,266 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:08:09,266 | INFO | log_order_placement:123 | Order ID: 180
+2025-08-21 20:08:09,266 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-08-21 20:08:09,266 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:08:09,266 | INFO | log_order_placement:126 | Units: 864,181
+2025-08-21 20:08:09,266 | INFO | log_order_placement:127 | Order Type: MARKET
+2025-08-21 20:08:09,267 | INFO | log_order_placement:132 | Stop Loss: 1.34107 (0.0 pips)
+2025-08-21 20:08:09,267 | INFO | log_order_placement:133 | Take Profit: 1.34407 (0.0 pips)
+2025-08-21 20:08:09,267 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:08:09,267 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:08:09,267 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:08:09,267 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:08:09,267 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:08:09,267 | INFO | log_order_execution:145 | Executed Price: 1.34209
+2025-08-21 20:08:09,267 | INFO | log_order_execution:146 | Execution Time: 319.37ms
+2025-08-21 20:08:09,267 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:08:09.184258528Z
+2025-08-21 20:08:09,267 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:08:09,268 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:08:09,268 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:08:09,268 | INFO | log_order_execution:158 | Spread Cost: $99.38
+2025-08-21 20:08:09,268 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:08:09,268 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:08:09,268 | INFO | log_order_execution:164 | Total Cost: $99.38
+2025-08-21 20:08:09,268 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:08:09,268 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:08:09,268 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:08:09,268 | INFO | log_order_execution:170 | Account Balance: $96,020.13
+2025-08-21 20:08:09,268 | INFO | log_order_execution:171 | Margin Required: $57,985.68
+2025-08-21 20:08:09,268 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:08:09,269 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:08:09,269 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:08:09,269 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:08:09,269 | INFO | log_session_end:215 | Reason: Market order executed
+2025-08-21 20:08:09,269 | INFO | log_session_end:216 | End Time: 2025-08-21 20:08:09
+2025-08-21 20:08:09,269 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:08:25,410 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:08:25,410 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:08:25,410 | INFO | log_session_start:203 | Account Balance: $96,020.13
+2025-08-21 20:08:25,411 | INFO | log_session_start:204 | Instrument: UJ
+2025-08-21 20:08:25,411 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:08:25,411 | INFO | log_session_start:206 | Stop Loss: 12.0 pips
+2025-08-21 20:08:25,411 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:08:25
+2025-08-21 20:08:25,411 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:08:27,446 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:08:27,447 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:08:27,447 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:08:27,447 | INFO | log_order_placement:123 | Order ID: 184
+2025-08-21 20:08:27,447 | INFO | log_order_placement:124 | Instrument: USD_JPY
+2025-08-21 20:08:27,447 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:08:27,447 | INFO | log_order_placement:126 | Units: 7,201
+2025-08-21 20:08:27,447 | INFO | log_order_placement:127 | Order Type: MARKET
+2025-08-21 20:08:27,447 | INFO | log_order_placement:132 | Stop Loss: 148.26400 (0.0 pips)
+2025-08-21 20:08:27,447 | INFO | log_order_placement:133 | Take Profit: 148.62400 (0.0 pips)
+2025-08-21 20:08:27,447 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:08:27,447 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:08:27,447 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:08:27,447 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:08:27,448 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:08:27,448 | INFO | log_order_execution:145 | Executed Price: 148.38400
+2025-08-21 20:08:27,448 | INFO | log_order_execution:146 | Execution Time: 354.41ms
+2025-08-21 20:08:27,448 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:08:27.358934915Z
+2025-08-21 20:08:27,448 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:08:27,448 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:08:27,448 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:08:27,448 | INFO | log_order_execution:158 | Spread Cost: $0.41
+2025-08-21 20:08:27,448 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:08:27,448 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:08:27,449 | INFO | log_order_execution:164 | Total Cost: $0.41
+2025-08-21 20:08:27,449 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:08:27,449 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:08:27,449 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:08:27,449 | INFO | log_order_execution:170 | Account Balance: $96,020.13
+2025-08-21 20:08:27,449 | INFO | log_order_execution:171 | Margin Required: $360.05
+2025-08-21 20:08:27,449 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:08:27,449 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:08:27,450 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:08:27,450 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:08:27,450 | INFO | log_session_end:215 | Reason: Market order executed
+2025-08-21 20:08:27,450 | INFO | log_session_end:216 | End Time: 2025-08-21 20:08:27
+2025-08-21 20:08:27,450 | INFO | log_session_end:217 | ================================================================================
+2025-08-21 20:08:51,002 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-08-21 20:08:51,003 | INFO | log_session_start:202 | ================================================================================
+2025-08-21 20:08:51,003 | INFO | log_session_start:203 | Account Balance: $96,020.13
+2025-08-21 20:08:51,003 | INFO | log_session_start:204 | Instrument: EU
+2025-08-21 20:08:51,003 | INFO | log_session_start:205 | Position: LONG
+2025-08-21 20:08:51,003 | INFO | log_session_start:206 | Stop Loss: 14.0 pips
+2025-08-21 20:08:51,003 | INFO | log_session_start:207 | Session Time: 2025-08-21 20:08:51
+2025-08-21 20:08:51,003 | INFO | log_session_start:208 | ================================================================================
+2025-08-21 20:08:52,736 | INFO | log_order_placement:120 | ================================================================================
+2025-08-21 20:08:52,736 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-08-21 20:08:52,736 | INFO | log_order_placement:122 | ================================================================================
+2025-08-21 20:08:52,736 | INFO | log_order_placement:123 | Order ID: 188
+2025-08-21 20:08:52,736 | INFO | log_order_placement:124 | Instrument: EUR_USD
+2025-08-21 20:08:52,736 | INFO | log_order_placement:125 | Position: LONG
+2025-08-21 20:08:52,736 | INFO | log_order_placement:126 | Units: 617,272
+2025-08-21 20:08:52,736 | INFO | log_order_placement:127 | Order Type: MARKET
+2025-08-21 20:08:52,736 | INFO | log_order_placement:132 | Stop Loss: 1.16011 (0.0 pips)
+2025-08-21 20:08:52,736 | INFO | log_order_placement:133 | Take Profit: 1.16431 (0.0 pips)
+2025-08-21 20:08:52,736 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-08-21 20:08:52,737 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-08-21 20:08:52,737 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-08-21 20:08:52,737 | INFO | log_order_execution:143 | ================================================================================
+2025-08-21 20:08:52,737 | INFO | log_order_execution:144 | Status: FILLED
+2025-08-21 20:08:52,737 | INFO | log_order_execution:145 | Executed Price: 1.16151
+2025-08-21 20:08:52,737 | INFO | log_order_execution:146 | Execution Time: 349.79ms
+2025-08-21 20:08:52,737 | INFO | log_order_execution:147 | Fill Time: 2025-08-22T00:08:52.647481333Z
+2025-08-21 20:08:52,737 | INFO | log_order_execution:155 | ----------------------------------------
+2025-08-21 20:08:52,737 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-08-21 20:08:52,738 | INFO | log_order_execution:157 | ----------------------------------------
+2025-08-21 20:08:52,738 | INFO | log_order_execution:158 | Spread Cost: $52.47
+2025-08-21 20:08:52,738 | INFO | log_order_execution:159 | Commission: $0.00
+2025-08-21 20:08:52,738 | INFO | log_order_execution:160 | Financing: $0.00
+2025-08-21 20:08:52,738 | INFO | log_order_execution:164 | Total Cost: $52.47
+2025-08-21 20:08:52,738 | INFO | log_order_execution:167 | ----------------------------------------
+2025-08-21 20:08:52,738 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-08-21 20:08:52,738 | INFO | log_order_execution:169 | ----------------------------------------
+2025-08-21 20:08:52,738 | INFO | log_order_execution:170 | Account Balance: $96,020.13
+2025-08-21 20:08:52,738 | INFO | log_order_execution:171 | Margin Required: $14,338.24
+2025-08-21 20:08:52,738 | INFO | log_order_execution:173 | ================================================================================
+2025-08-21 20:08:52,739 | INFO | log_session_end:212 | ================================================================================
+2025-08-21 20:08:52,739 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-08-21 20:08:52,739 | INFO | log_session_end:214 | ================================================================================
+2025-08-21 20:08:52,739 | INFO | log_session_end:215 | Reason: Market order executed
+2025-08-21 20:08:52,740 | INFO | log_session_end:216 | End Time: 2025-08-21 20:08:52
+2025-08-21 20:08:52,740 | INFO | log_session_end:217 | ================================================================================

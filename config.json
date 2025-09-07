@@ -1,0 +1,24 @@
+{
+    "INSTRUMENTS": {
+        "GU": {
+            "symbol": "GBP_USD",
+            "pip_value": 0.0001,
+            "precision": 5
+        },
+        "UJ": {
+            "symbol": "USD_JPY",
+            "pip_value": 0.01,
+            "precision": 3
+        },
+        "EU": {
+            "symbol": "EUR_USD",
+            "pip_value": 0.0001,
+            "precision": 5
+        },
+        "GJ": {
+            "symbol": "GBP_JPY",
+            "pip_value": 0.01,
+            "precision": 3
+        }
+    }
+}

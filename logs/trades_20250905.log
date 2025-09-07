@@ -1,0 +1,93 @@
+2025-09-05 10:30:49,543 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-09-05 10:30:49,552 | INFO | log_session_start:202 | ================================================================================
+2025-09-05 10:30:49,553 | INFO | log_session_start:203 | Account Balance: $10,255.44
+2025-09-05 10:30:49,553 | INFO | log_session_start:204 | Instrument: UJ
+2025-09-05 10:30:49,553 | INFO | log_session_start:205 | Position: LONG
+2025-09-05 10:30:49,553 | INFO | log_session_start:206 | Stop Loss: 15.0 pips
+2025-09-05 10:30:49,554 | INFO | log_session_start:207 | Session Time: 2025-09-05 10:30:49
+2025-09-05 10:30:49,554 | INFO | log_session_start:208 | ================================================================================
+2025-09-05 10:30:51,306 | INFO | log_order_placement:120 | ================================================================================
+2025-09-05 10:30:51,307 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-09-05 10:30:51,307 | INFO | log_order_placement:122 | ================================================================================
+2025-09-05 10:30:51,307 | INFO | log_order_placement:123 | Order ID: 735
+2025-09-05 10:30:51,307 | INFO | log_order_placement:124 | Instrument: USD_JPY
+2025-09-05 10:30:51,307 | INFO | log_order_placement:125 | Position: LONG
+2025-09-05 10:30:51,308 | INFO | log_order_placement:126 | Units: 68,369
+2025-09-05 10:30:51,308 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-09-05 10:30:51,308 | INFO | log_order_placement:130 | Requested Price: 147.11900
+2025-09-05 10:30:51,308 | INFO | log_order_placement:132 | Stop Loss: 146.96900 (0.0 pips)
+2025-09-05 10:30:51,308 | INFO | log_order_placement:133 | Take Profit: 147.41900 (0.0 pips)
+2025-09-05 10:30:51,308 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-09-05 10:30:51,308 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-09-05 10:30:55,574 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-09-05 10:30:55,575 | INFO | log_order_execution:143 | ================================================================================
+2025-09-05 10:30:55,576 | INFO | log_order_execution:144 | Status: FILLED
+2025-09-05 10:30:55,576 | INFO | log_order_execution:145 | Executed Price: 147.11900
+2025-09-05 10:30:55,576 | INFO | log_order_execution:146 | Execution Time: 0.00ms
+2025-09-05 10:30:55,577 | INFO | log_order_execution:147 | Fill Time: 
+2025-09-05 10:30:55,577 | INFO | log_order_execution:155 | ----------------------------------------
+2025-09-05 10:30:55,577 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-09-05 10:30:55,577 | INFO | log_order_execution:157 | ----------------------------------------
+2025-09-05 10:30:55,577 | INFO | log_order_execution:158 | Spread Cost: $0.00
+2025-09-05 10:30:55,577 | INFO | log_order_execution:159 | Commission: $0.00
+2025-09-05 10:30:55,577 | INFO | log_order_execution:160 | Financing: $0.00
+2025-09-05 10:30:55,578 | INFO | log_order_execution:164 | Total Cost: $0.00
+2025-09-05 10:30:55,578 | INFO | log_order_execution:167 | ----------------------------------------
+2025-09-05 10:30:55,578 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-09-05 10:30:55,578 | INFO | log_order_execution:169 | ----------------------------------------
+2025-09-05 10:30:55,578 | INFO | log_order_execution:170 | Account Balance: $0.00
+2025-09-05 10:30:55,578 | INFO | log_order_execution:171 | Margin Required: $0.00
+2025-09-05 10:30:55,578 | INFO | log_order_execution:173 | ================================================================================
+2025-09-05 10:30:55,586 | INFO | log_session_end:212 | ================================================================================
+2025-09-05 10:30:55,587 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-09-05 10:30:55,587 | INFO | log_session_end:214 | ================================================================================
+2025-09-05 10:30:55,587 | INFO | log_session_end:215 | Reason: Limit order filled
+2025-09-05 10:30:55,587 | INFO | log_session_end:216 | End Time: 2025-09-05 10:30:55
+2025-09-05 10:30:55,587 | INFO | log_session_end:217 | ================================================================================
+2025-09-05 10:42:04,783 | INFO | log_session_start:201 | TRADING SESSION STARTED
+2025-09-05 10:42:04,787 | INFO | log_session_start:202 | ================================================================================
+2025-09-05 10:42:04,787 | INFO | log_session_start:203 | Account Balance: $10,255.44
+2025-09-05 10:42:04,788 | INFO | log_session_start:204 | Instrument: GU
+2025-09-05 10:42:04,788 | INFO | log_session_start:205 | Position: SHORT
+2025-09-05 10:42:04,788 | INFO | log_session_start:206 | Stop Loss: 20.0 pips
+2025-09-05 10:42:04,788 | INFO | log_session_start:207 | Session Time: 2025-09-05 10:42:04
+2025-09-05 10:42:04,788 | INFO | log_session_start:208 | ================================================================================
+2025-09-05 10:42:09,735 | INFO | log_order_placement:120 | ================================================================================
+2025-09-05 10:42:09,735 | INFO | log_order_placement:121 | ORDER PLACEMENT
+2025-09-05 10:42:09,735 | INFO | log_order_placement:122 | ================================================================================
+2025-09-05 10:42:09,735 | INFO | log_order_placement:123 | Order ID: 751
+2025-09-05 10:42:09,736 | INFO | log_order_placement:124 | Instrument: GBP_USD
+2025-09-05 10:42:09,736 | INFO | log_order_placement:125 | Position: SHORT
+2025-09-05 10:42:09,736 | INFO | log_order_placement:126 | Units: -51,277
+2025-09-05 10:42:09,736 | INFO | log_order_placement:127 | Order Type: LIMIT
+2025-09-05 10:42:09,736 | INFO | log_order_placement:130 | Requested Price: 1.35110
+2025-09-05 10:42:09,736 | INFO | log_order_placement:132 | Stop Loss: 1.35310 (0.0 pips)
+2025-09-05 10:42:09,736 | INFO | log_order_placement:133 | Take Profit: 1.34710 (0.0 pips)
+2025-09-05 10:42:09,736 | INFO | log_order_placement:134 | Risk/Reward: 1:2.0
+2025-09-05 10:42:09,736 | INFO | log_order_placement:135 | --------------------------------------------------------------------------------
+2025-09-05 10:42:09,736 | INFO | log_order_execution:142 | ORDER EXECUTION
+2025-09-05 10:42:09,736 | INFO | log_order_execution:143 | ================================================================================
+2025-09-05 10:42:09,737 | INFO | log_order_execution:144 | Status: FILLED
+2025-09-05 10:42:09,737 | INFO | log_order_execution:145 | Executed Price: 1.35110
+2025-09-05 10:42:09,737 | INFO | log_order_execution:146 | Execution Time: 151.90ms
+2025-09-05 10:42:09,737 | INFO | log_order_execution:147 | Fill Time: 2025-09-05T14:42:09.737726554Z
+2025-09-05 10:42:09,737 | INFO | log_order_execution:152 | [GOOD | BELOW 0.5 PIPS] Slippage: 0.00 pips ($0.00)
+2025-09-05 10:42:09,737 | INFO | log_order_execution:155 | ----------------------------------------
+2025-09-05 10:42:09,737 | INFO | log_order_execution:156 | COST BREAKDOWN
+2025-09-05 10:42:09,737 | INFO | log_order_execution:157 | ----------------------------------------
+2025-09-05 10:42:09,737 | INFO | log_order_execution:158 | Spread Cost: $4.61
+2025-09-05 10:42:09,737 | INFO | log_order_execution:159 | Commission: $0.00
+2025-09-05 10:42:09,737 | INFO | log_order_execution:160 | Financing: $0.00
+2025-09-05 10:42:09,737 | INFO | log_order_execution:164 | Total Cost: $4.61
+2025-09-05 10:42:09,737 | INFO | log_order_execution:167 | ----------------------------------------
+2025-09-05 10:42:09,737 | INFO | log_order_execution:168 | ACCOUNT IMPACT
+2025-09-05 10:42:09,737 | INFO | log_order_execution:169 | ----------------------------------------
+2025-09-05 10:42:09,737 | INFO | log_order_execution:170 | Account Balance: $10,255.44
+2025-09-05 10:42:09,738 | INFO | log_order_execution:171 | Margin Required: $3,464.25
+2025-09-05 10:42:09,738 | INFO | log_order_execution:173 | ================================================================================
+2025-09-05 10:42:09,739 | INFO | log_session_end:212 | ================================================================================
+2025-09-05 10:42:09,740 | INFO | log_session_end:213 | TRADING SESSION ENDED
+2025-09-05 10:42:09,740 | INFO | log_session_end:214 | ================================================================================
+2025-09-05 10:42:09,740 | INFO | log_session_end:215 | Reason: Order filled immediately!
+2025-09-05 10:42:09,740 | INFO | log_session_end:216 | End Time: 2025-09-05 10:42:09
+2025-09-05 10:42:09,740 | INFO | log_session_end:217 | ================================================================================

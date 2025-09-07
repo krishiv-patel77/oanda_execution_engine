@@ -1,0 +1,3 @@
+timestamp,order_id,instrument,order_type,position,units,requested_price,executed_price,slippage_pips,slippage_cost,stop_loss_price,take_profit_price,execution_time_ms,spread_cost,commission,financing,account_balance_after,margin_required,status,fill_reason
+2025-09-05 10:30:55,735,USD_JPY,LIMIT,l,68369,,147.119,,,146.969,147.419,0.0,0.0,0.0,0.0,0.0,0.0,FILLED,LIMIT_ORDER
+2025-09-05 10:42:09,751,GBP_USD,LIMIT,s,-51277,1.3511,1.3511,0.0,0.0,1.3531,1.3471,151.90395805984735,4.6149,0.0,0.0,10255.4419,3464.2485,FILLED,LIMIT_ORDER
