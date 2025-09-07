@@ -39,8 +39,8 @@ Built with **asyncio** for responsive execution and live pricing streams.
 3. **Create a `.env` file in the project root** with your credentials:
 
    ```env
-   PRIMARY_ACCOUNT_ID = '101-001-35700126-001'
-   SECONDARY_ACCOUNT_ID = '101-001-35700126-002'
+   PRIMARY_ACCOUNT_ID = '101-001-35340676-601'
+   SECONDARY_ACCOUNT_ID = '101-001-46274824-002'
    OANDA_API_KEY = 'your_api_key_here'
    ```
 
