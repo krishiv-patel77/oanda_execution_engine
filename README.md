@@ -28,8 +28,7 @@ Built with **asyncio** for responsive execution and live pricing streams.
 1. **Clone the repo**
    ```bash
    git clone <your-repo-url>
-   cd <your-repo-name>
-````
+   cd <your-repo-name>```
 
 2. **Install dependencies using uv**
 
