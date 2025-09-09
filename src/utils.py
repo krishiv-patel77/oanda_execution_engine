@@ -1,5 +1,7 @@
 import json
 
+RR = 1
+
 with open("config.json", "r") as f:
 
     config = json.load(f)
@@ -32,7 +34,7 @@ def calculate_position_size(account_size, instrument, risk, position, sl_pips, p
 """ Calculates the take profit and stop loss prices based on the provided pips and current price of the instrument. """
 def calculate_tp_sl_prices(position, current_price, sl_pips, pip_value, precision):
     
-    tp_pips = sl_pips * 2       # 2 RR Take Profit
+    tp_pips = sl_pips * RR
 
     sl_dist = sl_pips * pip_value
     tp_dist = tp_pips * pip_value

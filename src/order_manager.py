@@ -240,3 +240,19 @@ class Order_Manager:
         )
         
         return metrics
+    
+    async def get_mt5_metrics(self, sl_pips):
+
+        units = calculate_position_size(self.account_size, self.instrument, self.risk, self.position, sl_pips, self.pip_value)
+
+        # Get current price
+        current_price = await self.pricing_stream.get_current_price()
+
+        tp_price, sl_price = calculate_tp_sl_prices(self.position, current_price, sl_pips, self.pip_value, self.precision)
+
+        return {
+            "units": units,
+            "take_profit_price": tp_price,
+            "stop_loss_price": sl_price,
+            "position": self.position
+            }

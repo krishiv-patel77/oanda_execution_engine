@@ -86,6 +86,11 @@ async def main():
     print("Starting Stream....")
     pricing_stream_task = asyncio.create_task(pricing_stream.start_price_stream())
 
+    # Log metrics for mt5 trading
+    metrics = await order_manager.get_mt5_metrics(sl_pips)
+
+    logger.log_mt5_metrics(**metrics)
+
     try:
         # Kick off user input loop
         while True:

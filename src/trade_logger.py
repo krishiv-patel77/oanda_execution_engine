@@ -216,6 +216,16 @@ class TradeLogger:
         self.trade_logger.info(f"End Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         self.trade_logger.info("="*80)
     
+    def log_mt5_metrics(self, units, take_profit_price, stop_loss_price, position):
+        self.trade_logger.info("MT5 METRICS")
+        self.trade_logger.info("="*80)
+        self.trade_logger.info(f"Units: {units}")
+        self.trade_logger.info(f"Take Profit: {take_profit_price}")
+        self.trade_logger.info(f"Stop Loss: {stop_loss_price}")
+        self.trade_logger.info(f"Position: {'BUY' if position == 'l' else 'SELL'}")
+        self.trade_logger.info("="*80)
+
+
     def save_to_csv(self, metrics: TradeMetrics):
         """Save trade metrics to CSV file"""
         try:
